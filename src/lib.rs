@@ -1,3 +1,5 @@
+pub fn foo() -> i32 { 42 }
+
 #[cfg(test)]
 mod tests {
     #[test]
